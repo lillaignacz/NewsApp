@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="mediumPadding">8dp</dimen>
+    <dimen name="largePadding">16dp</dimen>
+    <dimen name="defaultDivider">1dp</dimen>
+</resources>
